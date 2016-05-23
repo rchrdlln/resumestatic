@@ -10,6 +10,7 @@ h1 {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 30px;
   margin-left: 30px;
+  margin-bottom: -6px;
   /*color: #553355;*/
   color: black;
 }
