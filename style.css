@@ -1,12 +1,12 @@
 body {
-  font-family: 'League Spartan', 'Open Sans', 'Arial', sans-serif;
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   color: black;
   text-align: left;
   background: white;
 }
 
 h1 {
-  font-family: 'League Spartan', 'Open Sans', 'Arial', sans-serif;
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 36px;
   margin-left: 30px;
   /*color: #553355;*/
@@ -28,7 +28,7 @@ h3 {
 }
 
 .h3span {
-  font-family: 'Georgia', serif;
+  /*font-family: 'Georgia', serif;*/
   font-weight: bold;
   font-size: 24px;
   margin-left: 42px;
@@ -44,7 +44,6 @@ h3 {
 }
 
 h4 {
-  font-family: 'Georgia', serif;
   font-size: 21px;
   margin-left: 54px;
   /*color: #D0FFFF;*/
@@ -83,7 +82,7 @@ nav {
   content: "";
   background: #DD223A;
   padding: 0px;
-  font-family: 'League Spartan', 'Arial', sans-serif;
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   text-align: left;
 }
 
@@ -131,7 +130,8 @@ a:visited {
 }
 
 p {
-  font-family: 'Georgia', serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  /*font-family: 'Georgia', serif;*/
   font-size: 18px;
   margin: 6px 54px 6px 54px;
   color: black;
@@ -218,7 +218,7 @@ p {
 
 .siteheader {
   position: relative;
-  font-family: 'League Spartan', 'Arial', sans-serif;
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   text-align: center;
   margin: auto;
   padding: 6px 0px 0px 0px;
@@ -236,7 +236,8 @@ p {
 .slogan {
     display: block;
     font-size: 20px;
-    font-family: 'Georgia', serif;
+    /*font-family: 'Georgia', serif;*/
+    font-family: ;'Source Sans Pro', sans-serif;
     font-weight: normal;
     font-style: italic;
     color: #AAAABB;
