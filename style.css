@@ -8,20 +8,22 @@ body {
 
 h1 {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
-  font-size: 33px;
+  font-size: 30px;
   margin-left: 30px;
   /*color: #553355;*/
   color: black;
 }
 
 h2 {
-  font-size: 30px;
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
+  font-size: 27px;
   margin-left: 42px;
 /* color: #BBFFD3;*/
   color: black;
 }
 
 h3 {
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
   margin-left: 42px;
   /*color: #D0FFFF;*/
@@ -30,6 +32,7 @@ h3 {
 
 .h3span {
   /*font-family: 'Georgia', serif;*/
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin-left: 42px;
@@ -39,12 +42,14 @@ h3 {
 
 .right {
   /*font-weight: bold;*/
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
   margin-left: 36px;
   color: #BBBBCC;
 }
 
 h4 {
+  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 21px;
   margin-left: 54px;
   /*color: #D0FFFF;*/
@@ -58,7 +63,7 @@ ul {
 li {
   /*font-family: 'Source Sans Pro', sans-serif;*/
   font-family: 'Georgia', serif; 
-  font-size: 16px;
+  font-size: 15px;
   /*background: #fffef6;*/
   list-style-type: none;
   margin-left: 30px;
@@ -133,7 +138,7 @@ a:visited {
 p {
   /*font-family: 'Source Sans Pro', sans-serif;*/
   font-family: 'Georgia', serif;
-  font-size: 16px;
+  font-size: 15px;
   margin: 6px 54px 6px 54px;
   color: black;
 }
