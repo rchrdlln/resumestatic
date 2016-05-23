@@ -28,7 +28,7 @@ h3 {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
   margin-left: 54px;
-  margin-bottom: 0px;
+  margin-bottom: 3px;
   /*color: #D0FFFF;*/
   color: black;
 }
@@ -55,7 +55,7 @@ h4 {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 21px;
   margin-left: 54px;
-  margin-bottom: 6px;
+  margin-bottom: 9px;
   /*color: #D0FFFF;*/
   color: black;
 }
