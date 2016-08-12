@@ -35,8 +35,6 @@ h3 {
   font-size: 24px;
   margin-left: 54px;
   color: black;
-  width: 50%;
-  background: gray;
 }
 
 .spanright {
@@ -45,7 +43,7 @@ h3 {
   margin-left: 18%;
   text-align: right;
   color: #BBBBCC;
-  position: relative;
+  position: absolute;
   z-index: 1;
 }
 
