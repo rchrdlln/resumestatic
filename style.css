@@ -62,6 +62,7 @@ li {
   font-size: 15px;
   list-style-type: none;
   margin-left: 30px;
+  margin-right: 30px;
   margin-bottom: 15px;
   color: #222200;
 }
@@ -248,10 +249,6 @@ p {
 
   nav, .footer {
   display: none;
-  }
-  
-  .container {
-    max-width: 90%;
   }
 
 }
