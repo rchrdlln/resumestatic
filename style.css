@@ -36,6 +36,7 @@ h3 {
   /*margin-left: 54px;*/
   text-align: left;
   color: black;
+  float: left;
   width: 60%;
 }
 
@@ -47,6 +48,7 @@ h3 {
   color: #BBBBCC;
   /*position: absolute;
   z-index: 1;*/
+  float: left;
   width: 30%;
 }
 
