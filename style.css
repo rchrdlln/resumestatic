@@ -240,7 +240,7 @@ p {
 @media print {
   
   body {
-  font-size: 0.8em;
+  font-size: 0.5em;
   }
   
   h1, h2, h3, h4, h5 {
@@ -254,12 +254,17 @@ p {
   nav, .footer {
   display: none;
   }
+  
+  nav a {
+  color: #efefef;
+  }
 
 }
 
+/*
 @page {
   margin: 1.5cm;
 }
-
+*/
 
 
