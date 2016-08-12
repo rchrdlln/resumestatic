@@ -168,6 +168,7 @@ p {
 }
 
 .twocol {
+  display: inline-block;
   max-height: none; 
   text-align: left;
   margin-left: 54px;
