@@ -45,6 +45,7 @@ h3 {
   margin-left: 18%;
   text-align: right;
   color: #BBBBCC;
+  z-index: 1;
 }
 
 h4 {
