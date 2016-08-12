@@ -239,20 +239,8 @@ p {
   
 @media print {
   
-  @page :left {
-  margin-left: 1.5cm;
-  }
-
-  @page :right {
-  margin-right: 1.5cm;
-  }
-  
-  @page :top {
-  margin-top: 1.5cm;
-  }
-  
-  @page :bottom {
-  margin-bottom: 1.5cm;
+  body {
+  font-size: 0.8em;
   }
   
   h1, h2, h3, h4, h5 {
@@ -269,6 +257,9 @@ p {
 
 }
 
+@page {
+  margin: 1.5cm;
+}
 
 
 
