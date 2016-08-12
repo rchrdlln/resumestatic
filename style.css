@@ -29,7 +29,7 @@ h3 {
   color: black;
 }
 
-h3 .h3span {
+.h3span {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 24px;
@@ -37,7 +37,7 @@ h3 .h3span {
   color: black;
 }
 
-h3 .spanright {
+.spanright {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
   /*
