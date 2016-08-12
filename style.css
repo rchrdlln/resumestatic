@@ -37,7 +37,7 @@ h3 {
   color: black;
 }
 
-.right {
+.spanright {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
   /*
@@ -194,7 +194,6 @@ p {
   border: 0px solid red;
 }
 
-/*
 .left {
   text-align: left;
 }
@@ -202,7 +201,6 @@ p {
 .right {
   text-align: right;
 }
-*/
 
 .siteheaderbg {
   display: inline-block;
