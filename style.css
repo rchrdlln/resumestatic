@@ -249,6 +249,10 @@ p {
   nav, .footer {
   display: none;
   }
+  
+  .container {
+    max-width: 90%;
+  }
 
 }
 
