@@ -40,7 +40,11 @@ h3 {
 .right {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
+  /*
   margin-left: 36px;
+  */
+  text-align: right;
+  margin-right: 72px;
   color: #BBBBCC;
 }
 
@@ -255,7 +259,7 @@ p {
   display: none;
   }
   
-  nav a {
+  nav a: link,visited,hover,active {
   color: #efefef;
   }
 
