@@ -237,13 +237,18 @@ p {
   }
   
 @media print {
-  
+  /*
   @page :left {
   margin-left: 2.54cm;
   }
 
   @page :right {
   margin-right: 2.54cm;
+  }
+  */
+  
+  @page {
+  margin: 2.5cm;
   }
   
   h1, h2, h3, h4, h5 {
