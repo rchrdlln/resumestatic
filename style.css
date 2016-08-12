@@ -240,19 +240,19 @@ p {
 @media print {
   
   @page :left {
-  margin-left: 2.54cm;
+  margin-left: 1.5cm;
   }
 
   @page :right {
-  margin-right: 2.54cm;
+  margin-right: 1.5cm;
   }
   
   @page :top {
-  margin-top: 2.54cm;
+  margin-top: 1.5cm;
   }
   
   @page :bottom {
-  margin-bottom: 2.54cm;
+  margin-bottom: 1.5cm;
   }
   
   h1, h2, h3, h4, h5 {
