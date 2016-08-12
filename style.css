@@ -239,6 +239,22 @@ p {
   
 @media print {
   
+  @page :left {
+  margin-left: 2.54cm;
+  }
+
+  @page :right {
+  margin-right: 2.54cm;
+  }
+  
+  @page :top {
+  margin-top: 2.54cm;
+  }
+  
+  @page :bottom {
+  margin-bottom: 2.54cm;
+  }
+  
   h1, h2, h3, h4, h5 {
   page-break-after: avoid;
   }
