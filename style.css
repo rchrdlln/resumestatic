@@ -40,13 +40,8 @@ h3 {
 .spanright {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 24px;
-  /*
-  margin-left: 36px;
-  */
+  margin-left: 33%;
   text-align: right;
-  /*
-  margin-right: 20%;
-  */
   color: #BBBBCC;
 }
 
