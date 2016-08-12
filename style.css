@@ -33,18 +33,21 @@ h3 {
   font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
   font-weight: bold;
   font-size: 24px;
-  margin-left: 54px;
+  /*margin-left: 54px;*/
+  text-align: left;
   color: black;
+  width: 60%;
 }
 
 .spanright {
-  font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
-  font-size: 24px;
-  margin-left: 18%;
-  text-align: right;
+  /*font-family: 'League Spartan', 'Source Sans Pro', 'Arial', sans-serif;
+  font-size: 24px;*/
+  /*margin-left: 18%;*/
+  /*text-align: left;*/
   color: #BBBBCC;
-  position: absolute;
-  z-index: 1;
+  /*position: absolute;
+  z-index: 1;*/
+  width: 30%;
 }
 
 h4 {
@@ -160,6 +163,12 @@ p {
   margin: auto;
   background: none;
   text-align: center;
+}
+
+.twocol {
+  max-height: none; 
+  text-align: left;
+  margin-left: 54px;
 }
 
 .footer {
