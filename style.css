@@ -171,6 +171,7 @@ p {
   max-height: none; 
   text-align: left;
   margin-left: 54px;
+  width: 100%;
 }
 
 .footer {
