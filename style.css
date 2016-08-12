@@ -44,7 +44,7 @@ h3 {
   margin-left: 36px;
   */
   text-align: right;
-  margin-right: 72px;
+  margin-right: 20%;
   color: #BBBBCC;
 }
 
@@ -194,6 +194,7 @@ p {
   border: 0px solid red;
 }
 
+/*
 .left {
   text-align: left;
 }
@@ -201,6 +202,7 @@ p {
 .right {
   text-align: right;
 }
+*/
 
 .siteheaderbg {
   display: inline-block;
@@ -243,7 +245,7 @@ p {
   
 @media print {
   
-  body {
+  div {
   font-size: 0.5em;
   }
   
@@ -258,9 +260,9 @@ p {
   nav, .footer {
   display: none;
   }
-  
-  nav a: link,visited,hover,active {
-  color: #efefef;
+
+  a:visited {
+  color: #DD223A;
   }
 
 }
