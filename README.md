@@ -1,2 +1,1 @@
-Richard D. Allen
-Lawyer / writer
+Richard D. Allen, lawyer / writer
